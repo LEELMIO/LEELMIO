@@ -1,16 +1,27 @@
-## Hi there 👋
+## 안녕하세요, 성현주입니다. 👋
 
-<!--
-**LEELMIO/LEELMIO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+> *"팀이 맞물려 돌아가게 하는 기어 같은 개발자가 되겠습니다."*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍🎓 Profile
+
+### 📱 Contact
+- ✉️ [hangju0308@gmail.com]
+- GitHub: [LEELMIO](https://github.com/LEELMIO)
+- Instagram: [@a3b42h](https://instagram.com/a3b42h)
+
+### 🎓 Education
+- 🏫 학교: 한양대학교
+- 📚 전공: 컴퓨터소프트웨어학부
+- 📊 학년: [3학년 2학기]
+
+### 📜 Certificates
+- SQLD
+- 운전면허 2종보통
+
+### 🌏 Language Skills
+- [TOEIC 875/990 (2025.09)]
+
